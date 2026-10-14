@@ -1,0 +1,24 @@
+{
+  "phase": "0",
+  "environment": {
+    "cloud_shell": true
+  },
+  "python": {
+    "version": "3.12.3",
+    "ok": true
+  },
+  "gcloud": {
+    "account": "Giorgio.Montini@eurecom.fr",
+    "project": "eurecomgpt-montini",
+    "error": null
+  },
+  "docker": {
+    "version": "Docker version 29.8.2, build 7fc2dff",
+    "present": true
+  },
+  "git": {
+    "remote": "https://github.com/Montini-Eurecom/EurecomGPT-Montini.git",
+    "is_github": true,
+    "slug": "Montini-Eurecom/EurecomGPT-Montini"
+  }
+}
