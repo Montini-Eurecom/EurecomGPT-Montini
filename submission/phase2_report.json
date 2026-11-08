@@ -1,0 +1,30 @@
+{
+  "phase": "2",
+  "environment": {
+    "colab": true
+  },
+  "attention": {
+    "naive_ms": 458.471,
+    "vectorized_ms": 12.0,
+    "speedup": 38.21
+  },
+  "threads": {
+    "1": 2266.92,
+    "2": 2835.983,
+    "4": 2289.415,
+    "8": 2398.374
+  },
+  "devices": {
+    "cpu_ms": 456327.5,
+    "gpu_ms": 13707.3
+  },
+  "training": {
+    "steps": 2000,
+    "final_loss": 1.4861,
+    "param_count": 4935680
+  },
+  "sample": "\nCame:\nIf me heaven, I to was they than you sent.\n\nMessenger:\nAdo, that I whilt my body's made, amonded\nI tempt my togun, incient mine will do girls,\nUnworoun of thy tone brothece frighting me with fro",
+  "model": {
+    "gcs_url": "https://storage.googleapis.com/eurecomgpt-montini-eurecomgpt/model.safetensors"
+  }
+}
